@@ -2,23 +2,44 @@
 
   <panel>
     <number>1</number>
-    <image>https://sample.com/image1.jpg</image>
-    <url>https://sample.com/donate</url>
+    <image>https://github.com/SurfRoots/Radio/blob/main/Panel%20%231.jpg?raw=true</image>
+    <url>https://surfroots.com/pages/surf-roots-radio</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>2</number>
-    <image>https://sample.com/image2.jpg</image>
-    <url>https://sample.com/news</url>
+    <image>https://github.com/SurfRoots/Radio/blob/main/Panel%20%232.jpg?raw=true</image>
+    <url>https://surfroots.com/</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>3</number>
-    <image>https://sample.com/image3.jpg</image>
-    <url>https://sample.com/events</url>
+    <image>https://github.com/SurfRoots/Radio/blob/main/Panel%20%233.jpg?raw=true</image>
+    <url>https://surfroots.tv/</url>
     <redirect>n</redirect>
   </panel>
 
+  <panel>
+    <number>4</number>
+    <image>https://github.com/SurfRoots/Radio/blob/main/Panel%20%234.jpg?raw=true</image>
+    <url>https://surfroots.com/collections</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>5</number>
+    <image>https://github.com/SurfRoots/Radio/blob/main/Panel%20%235.jpg?raw=true</image>
+    <url>https://www.instagram.com/surfroots/</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>6</number>
+    <image>https://github.com/SurfRoots/Radio/blob/main/Elevado%20radio%20ad.png?raw=true</image>
+    <url>https://elevadodrinks.com/</url>
+    <redirect>n</redirect>
+  </panel>
+  
 </rotator>
